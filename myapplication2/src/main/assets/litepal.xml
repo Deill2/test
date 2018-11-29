@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<litepal>
+    <dbname value="Store"></dbname>
+    <version value="2"></version>
+    <list>
+        <mapping class = "com.example.myapplication2.LitePalTest"></mapping>
+        <mapping    class="com.example.myapplication2.test"></mapping>
+    </list>
+</litepal>
